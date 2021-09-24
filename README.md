@@ -12,7 +12,5 @@
 📧 [gmail][gmail] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
-
 [gmail]: mailto:ashkandeveloper11@gmail.com
 [linkedin]: https://linkedin.com/in/ashkannoori
