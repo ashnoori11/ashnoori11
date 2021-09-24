@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'm Ashkan 👋
 
-<!--
-**ashnoori11/ashnoori11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I 'm a Developer ...
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JavaScript , Design , angualr js , blazor
+- 👯 I’m looking to collaborate on Anything that can grow my career
+- 💬 Ask me about Anything about asp.net core and C#
+- 📫 How to reach me: ashkandeveloper11@gmail.com
+- ⚡ Fun fact: I've spent years learning asp.net core , but I recently fell in love with Design.
+
+📧 [gmail][gmail] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[gmail]: mailto:ashkandeveloper11@gmail.com
+[linkedin]: https://linkedin.com/in/ashkannoori
