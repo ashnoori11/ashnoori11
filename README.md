@@ -1,8 +1,5 @@
 ### Hi I'm Ashkan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashnoori11&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashnoori11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I'm A Fighter Against The Wrong Education System And A Developer
 
 - 🌱 I'm a trainer, learner at the same time, and full stack developer with 5 years professional experience.
@@ -15,3 +12,11 @@
 
 [gmail]: mailto:ashkandeveloper11@gmail.com
 [linkedin]: https://linkedin.com/in/ashkannoori
+
+## GitHub Stats
+
+<a href="https://github.com/ashnoori11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashnoori11&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" alt="Ashkan Noori 's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnoori11&theme=shades-of-purple&layout=compact" 
+    alt="AshkanNooriDev GitHub Top Languages" />
+</a>
