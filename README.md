@@ -1,5 +1,7 @@
 ### Hi I'm Ashkan 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashnoori11)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I'm A Fighter Against The Wrong Education System And A Developer
 
 - 🌱 I'm a trainer, learner at the same time, and full stack developer with 5 years professional experience.
