@@ -1,11 +1,13 @@
 ### Hi I'm Ashkan 👋
 
-## I 'm a Developer ...
+![Ashkan noori](https://ashkannooridev.com/newsImage/news-9549e0b79e.jpg)
 
-- 🌱 I’m currently learning JavaScript , Design , blazor
-- 👯 I’m looking to collaborate on Anything that can grow my career
-- 💬 Ask me about Anything in asp.net core and C#
-- ⚡ Fun fact: I've spent years learning asp.net core , but I recently fell in love with JavaScript.
+## I'm A Fighter Against The Wrong Education System And A Developer
+
+- 🌱 I'm a trainer, learner at the same time, and full stack developer with 5 years professional experience.
+- 👯 Currently, I specialise in teaching and building enterprise applications using .NET, C#, JavaScript.
+- ⚡ I am currently working on cloud CRM software development.
+- ⚡ I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 📧 [gmail][gmail] **|** 
 👔 [linkedin][linkedin]
