@@ -1,7 +1,5 @@
 ### Hi I'm Ashkan 👋
 
-![Ashkan noori](https://ashkannooridev.com/newsImage/news-9549e0b79e.jpg)
-
 ## I'm A Fighter Against The Wrong Education System And A Developer
 
 - 🌱 I'm a trainer, learner at the same time, and full stack developer with 5 years professional experience.
